@@ -1,0 +1,7 @@
+{
+  "timestamp": "2026-10-27T15:44:59.043390+05:30",
+  "event": "FILE_DELETED",
+  "file": "new_test.txt",
+  "old_sha256": "ffb882b98be3a81cc6f4e8a673f56311f9b4815c607bfa8a181a27f1a7d35ff1",
+  "new_sha256": null
+}

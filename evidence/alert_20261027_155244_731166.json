@@ -1,0 +1,7 @@
+{
+  "timestamp": "2026-10-27T15:52:44.731127+05:30",
+  "event": "FILE_MISSING_AT_START",
+  "file": "test.txt",
+  "old_sha256": "a9360fb15a5d1861c80da667d04e0963672441682d61c30e9e61f89a5d250e95",
+  "new_sha256": null
+}

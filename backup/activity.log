@@ -1,0 +1,4 @@
+2026-10-27 15:28:08,780 | INFO | Baseline created with 1 file(s)
+2026-10-27 15:29:25,442 | WARNING | FILE_MODIFIED | file=test.txt | old=970679bd7a6003bf0c61b6fa01aadc2b675d21315c218a3134b7da487aae7e5e | new=a9360fb15a5d1861c80da667d04e0963672441682d61c30e9e61f89a5d250e95
+2026-10-27 15:44:43,143 | WARNING | FILE_CREATED | file=new_test.txt | old=None | new=ffb882b98be3a81cc6f4e8a673f56311f9b4815c607bfa8a181a27f1a7d35ff1
+2026-10-27 15:44:59,043 | WARNING | FILE_DELETED | file=new_test.txt | old=ffb882b98be3a81cc6f4e8a673f56311f9b4815c607bfa8a181a27f1a7d35ff1 | new=None

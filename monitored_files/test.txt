@@ -1,0 +1,4 @@
+This is my original monitored file.
+Unauthorized change test
+Second unauthorized change test
+Change while FIM was stopped
